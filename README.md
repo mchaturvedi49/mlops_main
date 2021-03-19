@@ -1,4 +1,4 @@
-mlops_main
+﻿mlops_main
 ==============================
 
 It's a wafer project using mlops
@@ -55,3 +55,8 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+## Githib for refeence
+https://c17hawke.github.io/wafer_mlops_docs/stage1_init_setup/
+
+https://github.com/c17hawke/wafer_mlops_docs
